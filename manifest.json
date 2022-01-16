@@ -1,0 +1,9 @@
+{
+    "name": "momentum parody",
+    "version": "1.0",
+    "description": "roast you",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+        "newtab": "homepage.html"
+    }
+}
