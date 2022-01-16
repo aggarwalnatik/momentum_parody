@@ -10,9 +10,9 @@ else if(today.getMinutes() >= 10){
 var t = document.getElementById('currentTime');
 t.innerHTML = time;
 
-const greet1 = "Good morning, Natik.";
-const greet2 = "Good afternoon, Natik.";
-const greet3 = "Good evening, Natik.";
+const greet1 = "Good morning,John Doe.";
+const greet2 = "Good afternoon, John Doe.";
+const greet3 = "Good evening, John Doe.";
 
 var greeting = document.getElementById('greetingHeading');
 
